@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BuscadorCidadesBrasilApplication {
+public class ApiRestDistanciaEntreCidadesBrasilApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BuscadorCidadesBrasilApplication.class, args);
+		SpringApplication.run(ApiRestDistanciaEntreCidadesBrasilApplication.class, args);
 	}
 
 }
